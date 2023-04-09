@@ -245,8 +245,6 @@ docker run --tty --interactive --name kalilinux --hostname kalilinux ilyasousbaa
 
 `Sublist3r`:  Is a python tool designed to enumerate subdomains of websites using OSINT
 
-`dirsearch`:  Web path discovery
-
 `Invoke-Obfuscation`:  PowerShell obfuscator for windows defense evasion
 
 > Note: require `git`
